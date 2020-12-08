@@ -4,5 +4,5 @@ Projeto Angular Básico de Autenticação.
 
 # Contact
 
-Carlos Diego Quirino Lima
-**Email:** diegoquirino@gmail.com
+- Carlos Diego Quirino Lima
+- **Email:** diegoquirino@gmail.com
